@@ -7,3 +7,4 @@ itsdangerous==2.1.2
 psycopg2==2.9.6
 SQLAlchemy==1.4.46
 Werkzeug==2.3.4
+-e ./setup.py
